@@ -1,0 +1,14 @@
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.exe
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.deps.json
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.runtimeconfig.json
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.dll
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\bin\Debug\net8.0\StructuralPatterns.pdb
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfoInputs.cache
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.AssemblyInfo.cs
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.csproj.CoreCompileInputs.cache
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.dll
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\refint\StructuralPatterns.dll
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.pdb
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.genruntimeconfig.cache
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\ref\StructuralPatterns.dll

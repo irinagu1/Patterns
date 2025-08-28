@@ -1,0 +1,14 @@
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\bin\Debug\net8.0\AllPatterns.exe
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\bin\Debug\net8.0\AllPatterns.deps.json
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\bin\Debug\net8.0\AllPatterns.runtimeconfig.json
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\bin\Debug\net8.0\AllPatterns.dll
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\bin\Debug\net8.0\AllPatterns.pdb
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.AssemblyInfoInputs.cache
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.AssemblyInfo.cs
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.csproj.CoreCompileInputs.cache
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.dll
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\refint\AllPatterns.dll
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.pdb
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.genruntimeconfig.cache
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\ref\AllPatterns.dll

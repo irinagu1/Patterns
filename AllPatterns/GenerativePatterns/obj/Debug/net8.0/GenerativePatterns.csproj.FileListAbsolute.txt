@@ -1,0 +1,14 @@
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\bin\Debug\net8.0\GenerativePatterns.exe
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\bin\Debug\net8.0\GenerativePatterns.deps.json
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\bin\Debug\net8.0\GenerativePatterns.runtimeconfig.json
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\bin\Debug\net8.0\GenerativePatterns.dll
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\bin\Debug\net8.0\GenerativePatterns.pdb
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.AssemblyInfoInputs.cache
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.AssemblyInfo.cs
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.csproj.CoreCompileInputs.cache
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.dll
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\refint\GenerativePatterns.dll
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.pdb
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.genruntimeconfig.cache
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\ref\GenerativePatterns.dll
