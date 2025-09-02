@@ -12,3 +12,4 @@ D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\refint\St
 D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.pdb
 D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.genruntimeconfig.cache
 D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\ref\StructuralPatterns.dll
+D:\MyProjects\Patterns\AllPatterns\StructuralPatterns\obj\Debug\net8.0\StructuralPatterns.sourcelink.json

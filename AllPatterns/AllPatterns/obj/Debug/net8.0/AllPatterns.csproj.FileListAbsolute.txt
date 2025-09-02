@@ -12,3 +12,4 @@ D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\refint\AllPatter
 D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.pdb
 D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.genruntimeconfig.cache
 D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\ref\AllPatterns.dll
+D:\MyProjects\Patterns\AllPatterns\AllPatterns\obj\Debug\net8.0\AllPatterns.sourcelink.json

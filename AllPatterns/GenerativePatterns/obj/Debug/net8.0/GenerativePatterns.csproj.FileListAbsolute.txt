@@ -12,3 +12,4 @@ D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\refint\Ge
 D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.pdb
 D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.genruntimeconfig.cache
 D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\ref\GenerativePatterns.dll
+D:\MyProjects\Patterns\AllPatterns\GenerativePatterns\obj\Debug\net8.0\GenerativePatterns.sourcelink.json

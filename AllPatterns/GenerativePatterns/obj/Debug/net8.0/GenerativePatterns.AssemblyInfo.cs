@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenerativePatterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0765cc80f741c47802daebeb50af94dea6141dc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenerativePatterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenerativePatterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
