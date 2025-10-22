@@ -117,7 +117,7 @@ namespace StructuralPatterns
         }
     }
 
-    public class Sentence : Component 
+    public class Sentence : Component //as leaf
     {
         string sentence;
         public Sentence(string text) => sentence = text;

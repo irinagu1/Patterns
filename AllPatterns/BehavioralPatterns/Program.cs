@@ -1,4 +1,5 @@
 ﻿using BehavioralPatterns;
+using System.Reflection.Metadata;
 
 //strategy
 //interfaces
@@ -15,7 +16,6 @@ car.move();
 car.move -= VoidsForDelegates.PetrolMove;
 car.move += VoidsForDelegates.ElectroMove;
 car.move();
-Console.ReadLine();
 
 //templateMethod
 DocumentProcessor processor = new PdfProcessor();
@@ -23,4 +23,12 @@ processor.Process();
 
 processor = new ExcelProcessor();
 processor.Process();
+
+//mediator
+Mediator m = new Mediator();
+ComponentButton b = new ComponentButton(m);
+ComponentTextBox tb = new ComponentTextBox(m);
+b.Push();
+tb.ChangeText();
+
 Console.ReadLine();

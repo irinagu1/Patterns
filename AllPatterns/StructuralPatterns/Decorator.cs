@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 namespace StructuralPatterns
 {
    abstract class LogSaverDecorator : ILogSaver
-    {
+   {
         protected readonly ILogSaver _decoratee;
         protected LogSaverDecorator(ILogSaver decoratee)
         {
             _decoratee = decoratee;
         }
         public abstract void Save(LogEntry LogEntry);
-    }
+   }
 
     class SomeLogSaverDecorator : LogSaverDecorator
     {
