@@ -3,44 +3,28 @@
   "WorkspaceRootPath": "D:\\MyProjects\\Patterns\\AllPatterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\structuralpatterns\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\flyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\structuralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\structuralpatterns\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\bridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\structuralpatterns\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\proxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\structuralpatterns\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\structuralpatterns\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F91F66-7AF5-4E5F-A752-24E1F502F789}|GenerativePatterns\\GenerativePatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\generativepatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F91F66-7AF5-4E5F-A752-24E1F502F789}|GenerativePatterns\\GenerativePatterns.csproj|solutionrelative:generativepatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\structuralpatterns\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B6692C4-1C22-4830-8176-A4DFC75E9920}|StructuralPatterns\\StructuralPatterns.csproj|solutionrelative:structuralpatterns\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63F91F66-7AF5-4E5F-A752-24E1F502F789}|GenerativePatterns\\GenerativePatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\generativepatterns\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63F91F66-7AF5-4E5F-A752-24E1F502F789}|GenerativePatterns\\GenerativePatterns.csproj|solutionrelative:generativepatterns\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\behavioralpatterns\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|solutionrelative:behavioralpatterns\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\behavioralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|solutionrelative:behavioralpatterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\behavioralpatterns\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|solutionrelative:behavioralpatterns\\memento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\behavioralpatterns\\templatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|solutionrelative:behavioralpatterns\\templatemethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\behavioralpatterns\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|solutionrelative:behavioralpatterns\\iterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|d:\\myprojects\\patterns\\allpatterns\\behavioralpatterns\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2D5BF0-3068-417B-98C1-E0A22D192306}|BehavioralPatterns\\BehavioralPatterns.csproj|solutionrelative:behavioralpatterns\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,13 +54,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\Program.cs",
               "RelativeDocumentMoniker": "BehavioralPatterns\\Program.cs",
               "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\Program.cs",
               "RelativeToolTip": "BehavioralPatterns\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T11:54:20.275Z",
               "EditorCaption": ""
@@ -85,73 +69,8 @@
         },
         {
           "DockedWidth": 27,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Flyweight.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Flyweight.cs",
-              "RelativeDocumentMoniker": "StructuralPatterns\\Flyweight.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Flyweight.cs",
-              "RelativeToolTip": "StructuralPatterns\\Flyweight.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:29:48.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Program.cs",
-              "RelativeDocumentMoniker": "StructuralPatterns\\Program.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Program.cs",
-              "RelativeToolTip": "StructuralPatterns\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:40:45.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bridge.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Bridge.cs",
-              "RelativeDocumentMoniker": "StructuralPatterns\\Bridge.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Bridge.cs",
-              "RelativeToolTip": "StructuralPatterns\\Bridge.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:39:38.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Proxy.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Proxy.cs",
-              "RelativeDocumentMoniker": "StructuralPatterns\\Proxy.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Proxy.cs",
-              "RelativeToolTip": "StructuralPatterns\\Proxy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:29:49.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Composite.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Composite.cs",
-              "RelativeDocumentMoniker": "StructuralPatterns\\Composite.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Composite.cs",
-              "RelativeToolTip": "StructuralPatterns\\Composite.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAA0wCgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:19:30.666Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
@@ -162,54 +81,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\State.cs",
+              "RelativeDocumentMoniker": "BehavioralPatterns\\State.cs",
+              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\State.cs",
+              "RelativeToolTip": "BehavioralPatterns\\State.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAwwFEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:48:42.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Iterator.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\Iterator.cs",
+              "RelativeDocumentMoniker": "BehavioralPatterns\\Iterator.cs",
+              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\Iterator.cs",
+              "RelativeToolTip": "BehavioralPatterns\\Iterator.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:36:33.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Memento.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\Memento.cs",
+              "RelativeDocumentMoniker": "BehavioralPatterns\\Memento.cs",
+              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\Memento.cs",
+              "RelativeToolTip": "BehavioralPatterns\\Memento.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAqwG4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T08:08:02.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplateMethod.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\TemplateMethod.cs",
+              "RelativeDocumentMoniker": "BehavioralPatterns\\TemplateMethod.cs",
+              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\TemplateMethod.cs",
+              "RelativeToolTip": "BehavioralPatterns\\TemplateMethod.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T07:29:12.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Decorator.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Decorator.cs",
-              "RelativeDocumentMoniker": "StructuralPatterns\\Decorator.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Decorator.cs",
-              "RelativeToolTip": "StructuralPatterns\\Decorator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAYAAAA",
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\Strategy.cs",
+              "RelativeDocumentMoniker": "BehavioralPatterns\\Strategy.cs",
+              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\BehavioralPatterns\\Strategy.cs",
+              "RelativeToolTip": "BehavioralPatterns\\Strategy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T08:09:16.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Adapter.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Adapter.cs",
-              "RelativeDocumentMoniker": "StructuralPatterns\\Adapter.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\StructuralPatterns\\Adapter.cs",
-              "RelativeToolTip": "StructuralPatterns\\Adapter.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:59:17.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\GenerativePatterns\\Program.cs",
-              "RelativeDocumentMoniker": "GenerativePatterns\\Program.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\GenerativePatterns\\Program.cs",
-              "RelativeToolTip": "GenerativePatterns\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T12:31:22.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Prototype.cs",
-              "DocumentMoniker": "D:\\MyProjects\\Patterns\\AllPatterns\\GenerativePatterns\\Prototype.cs",
-              "RelativeDocumentMoniker": "GenerativePatterns\\Prototype.cs",
-              "ToolTip": "D:\\MyProjects\\Patterns\\AllPatterns\\GenerativePatterns\\Prototype.cs",
-              "RelativeToolTip": "GenerativePatterns\\Prototype.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA5wDMAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T12:28:10.221Z",
+              "WhenOpened": "2025-10-23T07:24:29.121Z",
               "EditorCaption": ""
             }
           ]

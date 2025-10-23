@@ -17,6 +17,16 @@ namespace BehavioralPatterns
         public string profileId {  get; set; }
 
         public FacebookIterator() { }
+
+        public Profile getNext()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool hasNext()
+        {
+            throw new NotImplementedException();
+        }
     }
 
     public interface SocialNetwork
@@ -27,7 +37,15 @@ namespace BehavioralPatterns
 
     public class Facebook : SocialNetwork
     {
+        public ProfileIterator createCoworkersIterator(int profileId)
+        {
+            throw new NotImplementedException();
+        }
 
+        public ProfileIterator createFriendsIterator(int profileId)
+        {
+            throw new NotImplementedException();
+        }
     }
 
     public class Profile { }

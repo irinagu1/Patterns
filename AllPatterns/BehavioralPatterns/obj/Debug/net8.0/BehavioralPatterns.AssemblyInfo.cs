@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BehavioralPatterns")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80babdf3d2931e9b4c26e1c9efe2bda1ffed08c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbc9d243fcbf6fc15a0944bab801dcfe21669fa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BehavioralPatterns")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BehavioralPatterns")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -31,4 +31,14 @@ ComponentTextBox tb = new ComponentTextBox(m);
 b.Push();
 tb.ChangeText();
 
+//memento
+OuterOriginator originator = new();
+CaretakerForNested ct =
+    new CaretakerForNested(originator);
+ct.Do();
+
+
+//state
+Smartphone smartphone = new Smartphone();
+smartphone.ShowLogic();
 Console.ReadLine();
