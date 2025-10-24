@@ -37,8 +37,27 @@ CaretakerForNested ct =
     new CaretakerForNested(originator);
 ct.Do();
 
-
 //state
 Smartphone smartphone = new Smartphone();
 smartphone.ShowLogic();
+
+//command
+
+//observer
+Customer c1 = new Customer();
+Customer c2 = new Customer();
+
+Publisher p = new Publisher();
+p.Subscribe(c1);
+p.Subscribe(c2);
+p.Logic("newState");
+p.Logic("newState2");
+
+//chain of resp
+var monkey = new MonkeyHandler();
+var sqirrel = new SquirrelHandler();
+
+monkey.SetNext(sqirrel);
+ChainOfResponsibilityClient.Logic(monkey);
+
 Console.ReadLine();

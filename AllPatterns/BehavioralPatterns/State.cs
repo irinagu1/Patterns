@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace BehavioralPatterns
 {
-   
     class Context
     {
         //объект текущего состояния
