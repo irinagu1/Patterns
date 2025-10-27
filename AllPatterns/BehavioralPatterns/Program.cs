@@ -60,4 +60,10 @@ var sqirrel = new SquirrelHandler();
 monkey.SetNext(sqirrel);
 ChainOfResponsibilityClient.Logic(monkey);
 
+//visitor
+ClientVisitor.Logic();
+
+//interpretator 
+InterpretatorClient.Logic();
+
 Console.ReadLine();
